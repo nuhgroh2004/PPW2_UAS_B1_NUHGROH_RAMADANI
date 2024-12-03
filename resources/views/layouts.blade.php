@@ -60,5 +60,6 @@
         <script src="{{ asset('jquery-3.7.1.min.js') }}"></script>
         <script src="{{ asset('bootstrap.bundle.min.js') }}"></script>
         @stack('customjs')
+       
     </body>
 </html>
